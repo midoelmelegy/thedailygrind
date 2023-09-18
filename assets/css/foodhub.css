@@ -21,11 +21,12 @@
    */
 
   --red-orange-crayola: hsl(0, 100%, 66%);
-  --space-cadet: hsl(249, 37%, 19%);
+  --space-cadet: hsl(3.12 70.64% 21.37%);
   --pistachio: hsl(88, 50%, 60%);
   --cultured: hsl(220, 13%, 95%);
   --saffron: hsl(45, 91%, 58%);
   --rhythm: hsl(240, 9%, 51%);
+  --grind: hsl(48, 79%, 85%);
   --white: hsl(0, 0%, 100%);
 
   /**
@@ -867,7 +868,7 @@ footer {
 
 .copyright {
   font-size: 12px;
-  color: var(--rhythm);
+  color: var(--grind);
   text-align: center;
   letter-spacing: 0.5px;
 }
