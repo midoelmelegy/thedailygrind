@@ -770,6 +770,22 @@ html {
 
 
 
+
+/*-----------------------------------*\ 
+  #LOCATIONS SECTION
+\*-----------------------------------*/
+
+.locations { padding: var(--py) var(--px) 0px; }
+
+.locations .section-title { margin-bottom: 15px; }
+
+.locations .section-text { margin-bottom: 20px; }
+
+
+
+
+
+
 /*-----------------------------------*\ 
   #TESTIMONIALS SECTION
 \*-----------------------------------*/
@@ -778,7 +794,7 @@ html {
 
 .testimonials .section-title { margin-bottom: 15px; }
 
-.testimonials .section-text { margin-bottom: 50px; }
+.testimonials .section-text { margin-bottom: 20px; }
 
 .testimonials-grid {
   display: grid;
