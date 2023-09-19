@@ -794,7 +794,7 @@ html {
 
 .testimonials .section-title { margin-bottom: 15px; }
 
-.testimonials .section-text { margin-bottom: 20px; }
+.testimonials .section-text { margin-bottom: 50px; }
 
 .testimonials-grid {
   display: grid;
