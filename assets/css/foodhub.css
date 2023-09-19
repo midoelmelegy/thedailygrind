@@ -396,8 +396,9 @@ html {
 
 .home-subtext {
   background: var(--cultured);
-  color: var(--space-cadet);
-  font-size: 13px;
+  font-family: "Monoton", cursive;
+  color: var(--saffron);
+  font-size: 23px;
   display: inline-block;
   padding: 3px;
   margin-bottom: 30px;
